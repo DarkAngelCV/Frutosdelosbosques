@@ -7,8 +7,8 @@
     tools:context=".Splash">
 
     <androidx.constraintlayout.widget.ConstraintLayout
-        android:layout_width="259dp"
-        android:layout_height="447dp"
+        android:layout_width="411dp"
+        android:layout_height="729dp"
         android:background="#978BC34A"
         tools:layout_editor_absoluteX="-1dp"
         tools:layout_editor_absoluteY="1dp">
@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Frutos de los Bosques"
-            tools:layout_editor_absoluteX="60dp"
-            tools:layout_editor_absoluteY="205dp" />
+            tools:layout_editor_absoluteX="136dp"
+            tools:layout_editor_absoluteY="355dp" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

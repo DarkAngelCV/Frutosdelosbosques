@@ -28,7 +28,15 @@
         android:background="#88CDDC39"
         android:orientation="horizontal"
         tools:layout_editor_absoluteX="-2dp"
-        tools:layout_editor_absoluteY="162dp"></LinearLayout>
+        tools:layout_editor_absoluteY="162dp">
+
+        <TextView
+            android:id="@+id/Local"
+            android:layout_width="138dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Local:" />
+    </LinearLayout>
 
     <TableLayout
         android:layout_width="410dp"
